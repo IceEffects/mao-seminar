@@ -1,6 +1,6 @@
 .DS_Store
 Thumbs.db
-.sass-cashe/
+*.sass-cashe/
 *.css.map
-.jpg
-.png
+*.jpg
+*.png
